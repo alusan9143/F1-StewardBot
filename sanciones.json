@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "text": "Penalización de 5 segundos por conducción antideportiva leve. Aplicable cuando:",
+        "metadata": {
+            "tipo": "Defensa de posición",
+            "subtipo": "Cambio de trayectoria",
+            "gravedad": "leve",
+            "articulo": "Art. 27.6",
+            "penalizacion": "5 segundos",
+            "aplicacion": "Durante carrera",
+            "palabras_clave": [
+                "defensa agresiva", 
+                "cambio brusco", 
+                "bloqueo", 
+                "trayectoria",
+                "obstrucción",
+                "línea de conducción"
+            ],
+            "ejemplos": [
+                "Cambio único de trayectoria en zona de frenado",
+                "Movimiento reactivo ante adelantamiento",
+                "Defensa de posición en curva"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "text": "Penalización de 10 segundos por causar colisión leve. Casos típicos:",
+        "metadata": {
+            "tipo": "Contacto",
+            "subtipo": "Colisión lateral",
+            "gravedad": "media",
+            "articulo": "Art. 31.2",
+            "penalizacion": "10 segundos",
+            "aplicacion": "Durante carrera",
+            "palabras_clave": [
+                "contacto lateral",
+                "choque leve", 
+                "defensa peligrosa",
+                "adelantamiento",
+                "frotamiento"
+            ],
+            "ejemplos": [
+                "Toque durante intento de adelantamiento",
+                "Contacto por cambio de línea en recta",
+                "Rozamiento en curva cerrada"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "text": "Penalización 'Drive-Through' por salida de pista con ventaja. Incluye:",
+        "metadata": {
+            "tipo": "Límites de pista",
+            "subtipo": "Ganancia de ventaja",
+            "gravedad": "grave",
+            "articulo": "Art. 28.3",
+            "penalizacion": "Pase por boxes",
+            "aplicacion": "Inmediata",
+            "palabras_clave": [
+                "salida de pista", 
+                "ventaja", 
+                "recorte",
+                "límites",
+                "escapatoria"
+            ],
+            "ejemplos": [
+                "Cortar chicane para ganar tiempo",
+                "Salida en curva con mejora de posición",
+                "Cuatro ruedas fuera de los límites"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "text": "Penalización 'Stop-and-Go' 10s por ignorar banderas amarillas. Aplica cuando:",
+        "metadata": {
+            "tipo": "Seguridad",
+            "subtipo": "Banderas",
+            "gravedad": "muy grave",
+            "articulo": "Art. 42.1",
+            "penalizacion": "Stop 10 segundos",
+            "aplicacion": "Inmediata",
+            "palabras_clave": [
+                "bandera amarilla", 
+                "peligro", 
+                "velocidad",
+                "zona accidente",
+                "reducción velocidad"
+            ],
+            "ejemplos": [
+                "No reducir velocidad bajo banderas amarillas",
+                "Adelantar con bandera amarilla visible",
+                "Ignorar señales de comisario"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "text": "Descalificación por conducta antideportiva grave. Aplicable en los siguientes casos:",
+        "metadata": {
+            "tipo": "Conducta antideportiva",
+            "subtipo": "Acción peligrosa intencional",
+            "gravedad": "extrema",
+            "articulo": "Art. 50.1",
+            "penalizacion": "Descalificación",
+            "aplicacion": "Inmediata",
+            "palabras_clave": [
+                "conducta antideportiva",
+                "acción intencional",
+                "colisión deliberada",
+                "agresión",
+                "bloqueo extremo"
+            ],
+            "ejemplos": [
+                "Provocar una colisión de forma deliberada",
+                "Empujar a otro competidor fuera de la pista",
+                "Ignorar repetidamente las órdenes de los comisarios",
+                "Conducta violenta o agresiva dentro o fuera del vehículo"
+            ]
+        }
+    }
+]
